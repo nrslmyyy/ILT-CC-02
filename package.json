@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/medival/bookshelf-api.git"
+    "url": "git+https://github.com/nrslmyyy/ILT-CC-02.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/medival/bookshelf-api/issues"
+    "url": "https://github.com/nrslmyyy/ILT-CC-02.git/issues"
   },
-  "homepage": "https://github.com/medival/bookshelf-api#readme",
+  "homepage": "https://github.com/nrslmyyy/ILT-CC-02.git#readme",
   "dependencies": {
     "@hapi/hapi": "^20.1.2",
     "nanoid": "^3.1.22"
